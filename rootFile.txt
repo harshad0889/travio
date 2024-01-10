@@ -3,3 +3,5 @@ this new line has been added for devlop branch ad
 develop new mode added
 
 new delete 
+
+command delete checking if branch delete works fine:"allowed"
